@@ -16,6 +16,7 @@ public class ProductController {
 		// finds all the products
 		List<Product> products = productService.findAll();
 		// returns the product list
+		
 		return products;
 	}
 }
