@@ -18,6 +18,8 @@ public class ProductService implements IProductService {
 		products.add(new Product(104, "Air Conditioner", "ACLG66721", 30000.00, 5));
 		products.add(new Product(105, "Refrigerator ", "12WP9087", 10000.00, 4));
 		//returns a list of product
+
+		//TODO need to add operation
 		return products;
 	}
 }
