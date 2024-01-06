@@ -1,6 +1,7 @@
 package com.javatpoint;
 
 public class Product {
+
 	private int id;
 	private String pname;
 	private String batchno;
